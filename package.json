@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "axios": "^0.17.1",
     "bootstrap": "^3.3.7",
     "debounce": "^1.1.0",
